@@ -1,16 +1,24 @@
-## Hi there 👋
+### 안녕하세요, 김희주(heeju-dev)입니다 🙋‍♀️
 
-<!--
-**heeju-dev/heeju-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+결제 도메인 프론트엔드 개발자로 4년째 일하고 있습니다.
+네이버페이 npaybiz팀에 상주하며 Npay biz(사업자 대상 환급금 조회, 정책지원금 안내,
+사업백과사전 등 정보성 서비스)의 프론트엔드 개발·운영을 담당하고 있고, 요구사항을
+코드로 옮기는 데 그치지 않고 기술적/UX적 판단이 필요한 지점에서는 직접 의견을 내고
+배포·운영까지 담당합니다.
 
-Here are some ideas to get you started:
+이 저장소들은 실무에서 마주친 문제를 익명화해 다시 정리한 기록입니다.
+회사 코드를 그대로 옮긴 것이 아니라, **문제 상황 → 해결 방법 → 그 방법을 선택한 이유**를
+재구성한 미니 예제들입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠 Stack
+`React` `TypeScript` `Jotai` `React Query` `Vite`
+
+#### 💼 Domain
+결제/핀테크 — BFF 아키텍처 기반 멀티 환경 프론트엔드 개발
+
+#### 📌 정리 중인 주제
+- 동적 라우팅에서의 타입 안전성 확보
+- 레거시 데이터 페칭(useEffect+Axios) → React Query 마이그레이션
+- 접근 등급별 조건부 렌더링/라우팅 설계
