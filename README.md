@@ -34,4 +34,3 @@
 | [`return-url-priority-design`](https://github.com/heeju-dev/return-url-priority-design) | 여러 진입 경로가 동시에 겹칠 때, 복귀 우선순위를 설계한 사례 |
 | [`defensive-response-handling`](https://github.com/heeju-dev/defensive-response-handling) | HTTP 200 + 실패코드, 여러 화면에 일관되게 적용한 방어 패턴 |
 | [`file-upload-debugging`](https://github.com/heeju-dev/file-upload-debugging) | 간헐적 업로드 실패를 단계적으로 추적해 원인 확정 |
-| [`api-layer-boundary`](https://github.com/heeju-dev/api-layer-boundary) | 팀 컨벤션과 변경 파급 범위를 함께 저울질한 판단 |
