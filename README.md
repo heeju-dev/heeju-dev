@@ -31,6 +31,7 @@
 | [`type-safe-dynamic-routing`](https://github.com/heeju-dev/type-safe-dynamic-routing) | 동적 라우팅 타입 안전성 — 타입 단언 대신 내로잉으로 런타임 에러 방어 |
 | [`safe-html-rendering`](https://github.com/heeju-dev/safe-html-rendering) | 운영 중 발견한 XSS 취약점을 코드리뷰로 찾아내 방어 |
 | [`cache-invalidation-side-effects`](https://github.com/heeju-dev/cache-invalidation-side-effects) | 캐시 무효화가 다른 로직에 미치는 부작용을 추적하고 정리 |
+| [`return-url-priority-design`](https://github.com/heeju-dev/return-url-priority-design) | 여러 진입 경로가 동시에 겹칠 때, 복귀 우선순위를 설계한 사례 |
 | [`defensive-response-handling`](https://github.com/heeju-dev/defensive-response-handling) | HTTP 200 + 실패코드, 여러 화면에 일관되게 적용한 방어 패턴 |
 | [`file-upload-debugging`](https://github.com/heeju-dev/file-upload-debugging) | 간헐적 업로드 실패를 단계적으로 추적해 원인 확정 |
 | [`api-layer-boundary`](https://github.com/heeju-dev/api-layer-boundary) | 팀 컨벤션과 변경 파급 범위를 함께 저울질한 판단 |
